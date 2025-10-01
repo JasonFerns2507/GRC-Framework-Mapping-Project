@@ -24,7 +24,7 @@ The following table maps specific statements from the policy to their correspond
 
 A complete version of this mapping is also available as a CSV file in this repository.
 
-[Link to the full mapping data](NIST_CSF_Mapping - Sheet1.csv
+[Link to the full mapping data](./NIST_CSF_Mapping%20-%20Sheet1.csv)
 )
 
 ---
