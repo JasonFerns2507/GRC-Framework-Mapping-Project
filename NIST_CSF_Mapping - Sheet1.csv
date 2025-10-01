@@ -1,0 +1,5 @@
+Policy Statement,NIST Function,NIST Category ID,NIST Subcategory ID
+3.1: Employees are responsible for the security of their assigned user accounts and passwords. Passwords must not be shared.,Protect,PR.AC,PR.AC-1
+4.1: Personal devices...must be protected by a secure passcode or biometric authentication.,Protect,PR.AC,PR.AC-7
+4.2: The device's storage must be encrypted.,Protect,PR.DS,PR.DS-1
+"4.5: When accessing corporate resources on public Wi-Fi, employees must use the company-provided VPN.",Protect,PR.DS,PR.DS-2
